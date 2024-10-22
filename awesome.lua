@@ -1,0 +1,1 @@
+/home/rto/.config/awesome/rc.lua
